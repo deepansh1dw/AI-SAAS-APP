@@ -32,9 +32,11 @@ QuickAI is a full-stack AI SaaS application that provides multiple AI-powered to
 **Database:**
 - PostgreSQL
 
-**AI APIs:**
-- Gemini AI
+**AI & Media Services:**
+- Gemini API
 - ClipDrop API
+- Cloudinary (image storage and transformations)
+
 
 **Authentication & Payments:**
 - Clerk
